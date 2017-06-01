@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f0c8af07dbf9f184eb590966c8041bab
+timeCreated: 1491992347
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura LtCn BT
+  fontNames:
+  - Futura LtCn BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

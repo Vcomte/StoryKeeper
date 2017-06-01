@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 61cef3b28f16eef4a805ae0d80d47cc9
+timeCreated: 1492611999
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bougie
+    100002: //RootNode
+    100004: lanterne 0
+    100006: lanterne 1
+    100008: lanterne 2
+    100010: lanterne 3
+    100012: lanterne 4
+    100014: lanterne 5
+    100016: lanterne 6
+    100018: lanterne 7
+    100020: lanterne 8
+    100022: lanterne 9
+    100024: lanterne b
+    100026: lanterne c
+    100028: lanterne10
+    100030: lanterne11
+    100032: lanterne12
+    100034: lanterne13
+    100036: lanterne14
+    400000: bougie
+    400002: //RootNode
+    400004: lanterne 0
+    400006: lanterne 1
+    400008: lanterne 2
+    400010: lanterne 3
+    400012: lanterne 4
+    400014: lanterne 5
+    400016: lanterne 6
+    400018: lanterne 7
+    400020: lanterne 8
+    400022: lanterne 9
+    400024: lanterne b
+    400026: lanterne c
+    400028: lanterne10
+    400030: lanterne11
+    400032: lanterne12
+    400034: lanterne13
+    400036: lanterne14
+    2300000: bougie
+    2300002: lanterne 0
+    2300004: lanterne 1
+    2300006: lanterne 2
+    2300008: lanterne 3
+    2300010: lanterne 4
+    2300012: lanterne 5
+    2300014: lanterne 6
+    2300016: lanterne 7
+    2300018: lanterne 8
+    2300020: lanterne 9
+    2300022: lanterne b
+    2300024: lanterne c
+    2300026: lanterne10
+    2300028: lanterne11
+    2300030: lanterne12
+    2300032: lanterne13
+    2300034: lanterne14
+    3300000: bougie
+    3300002: lanterne 0
+    3300004: lanterne 1
+    3300006: lanterne 2
+    3300008: lanterne 3
+    3300010: lanterne 4
+    3300012: lanterne 5
+    3300014: lanterne 6
+    3300016: lanterne 7
+    3300018: lanterne 8
+    3300020: lanterne 9
+    3300022: lanterne b
+    3300024: lanterne c
+    3300026: lanterne10
+    3300028: lanterne11
+    3300030: lanterne12
+    3300032: lanterne13
+    3300034: lanterne14
+    4300000: lanterne b
+    4300002: lanterne 0
+    4300004: lanterne 1
+    4300006: lanterne 2
+    4300008: lanterne 3
+    4300010: lanterne 4
+    4300012: lanterne 5
+    4300014: lanterne 6
+    4300016: bougie
+    4300018: lanterne c
+    4300020: lanterne 7
+    4300022: lanterne 8
+    4300024: lanterne 9
+    4300026: lanterne10
+    4300028: lanterne11
+    4300030: lanterne12
+    4300032: lanterne13
+    4300034: lanterne14
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

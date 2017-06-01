@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e19ec43b773915e48936e1021798cfc5
+timeCreated: 1491992347
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura LT
+  fontNames:
+  - Futura LT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d31c04f287ae4f44ebe154899f50346c, type: 3}
+  - {fileID: 12800000, guid: 7ecd70dfd003fa746bce3bd50eee4f0e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
