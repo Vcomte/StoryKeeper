@@ -5,6 +5,9 @@
 Story keeper is a game developed as an End of year project for the 
 IDE Master at ENJMIN/Gobelins between January 2017 and May 2017.
 
+Disclaimer:
+			The project has been developed with Unity3D vers 5.5.0f3
+
 Concept:	
 			Story Keeper is a 3D mobile Narrative adventure game,
 			where the player will follow the adventures of William,
