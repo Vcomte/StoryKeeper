@@ -2,13 +2,16 @@
 
 			Welcome to this Story Keeper demo
 
-Story keeper is a game developed as an End of year project for the 
+Story keeper is a game created as an End of year project for the 
 IDE Master at ENJMIN/Gobelins between January 2017 and May 2017.
+Its production lasted for a month & 1/2 between April and May 2017.
 
 Disclaimer:
+
 			The project has been developed with Unity3D vers 5.5.0f3
 
 Concept:	
+
 			Story Keeper is a 3D mobile Narrative adventure game,
 			where the player will follow the adventures of William,
 			a young man living in the 2020s. As William begins a new
@@ -33,6 +36,7 @@ Concept:
 			literary works have had on our culture.
 			
 Instructions:
+
 			This demo of the game will let you discover the very begining
 			of William's adventures inside the Odyssey of Homere. This demo
 			was developed for recent Android Devices (both Tablet and
@@ -41,8 +45,13 @@ Instructions:
 			A version for lower end devices will be developed later.
 
 Credits:
+
 			Adrien Morisse:			Project Management, UI, Scenario
+			
 			Laurent Miller:			Game/Level Design, 3D Artist
+			
 			Lorry Packo:			Artistic Direction
+			
 			Valentin Comte:			Development
+			
 			Hugo Lietman:			Music composition
